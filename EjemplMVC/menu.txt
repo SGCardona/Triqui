@@ -1,0 +1,8 @@
+menu 
+	jugar
+	"modo
+	 1c1
+	 1cp
+	 pcp"
+		Usuario
+			Juego
